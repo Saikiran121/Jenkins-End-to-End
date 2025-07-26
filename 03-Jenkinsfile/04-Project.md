@@ -1,4 +1,8 @@
 # 01. Here is a minimal Jenkinsfile that fulfills your hands-on test requirements:
+- Create a minimal Jenkinsfile that:
+  a. Checks out a public Git repo.
+  b. Echoes “Hello, Jenkinsfile!”.
+
 
 - Write the **Jenkinsfile** in your projects root directory
 ```
